@@ -10,7 +10,6 @@ This script was made for testing purposes on my network but tought others might 
 
 if used many times you will get a timeout until you can do a speed test again | This is from ookla's side not the script
 
--h command to display the options available with the script
 
 ![image](https://github.com/Rbrasil72/speedtest_ext/assets/108822086/4f4b6df4-be1d-43a5-bd66-ba5a0decf559)
 
